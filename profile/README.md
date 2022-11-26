@@ -4,7 +4,7 @@ We are Team Phoenix (formerly Team FSD), the developers behind Aurora, and it's 
 
 Register or manage your LiNK profile at [www.XboxUnity.net](http://www.XboxUnity.net).
 
-To access the community forum for resources and support, visit [www.RealModScene.com](https://www.RealModScene.com) or join our Discord server.
+To access the community forum for resources and support, visit [www.RealModScene.com](https://www.RealModScene.com) or join our [Discord server](https://discord.gg/XrPVzCvcUa).
 
 <!--
 TODO:
