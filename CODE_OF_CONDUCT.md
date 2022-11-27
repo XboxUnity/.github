@@ -2,7 +2,7 @@
 
 Respect is earned; if you want it, show it.
 
-Everyone is entitled to their own opinion; nobody is required to share that same opinion with you.
+Everyone is entitled to their own opinion; no one is required to share the same opinion as you.
 
 Criticism should be constructive, not destructive.
 
