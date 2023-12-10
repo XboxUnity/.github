@@ -1,6 +1,6 @@
 ## Welcome to XboxUnity :video_game:
 
-We are Team Phoenix (formerly Team FSD), the developers behind Aurora, and it's predecessor Freestyle Dash.
+We are Phoenix (formerly Team FSD), the developers behind Aurora, and it's predecessor Freestyle Dash.
 
 Register or manage your LiNK profile at [www.XboxUnity.net](http://www.XboxUnity.net).
 
